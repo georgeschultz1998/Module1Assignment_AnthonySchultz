@@ -1,0 +1,44 @@
+[
+{
+    "id": 0,
+    "courseName": "IFT001",
+    "image": "📕",
+    "from": "Information Technology",
+    "instructor": "David Alderman, Taitiana Walsh",
+    "credits": "4",
+    "description": "Introduction to Information Technology"
+}, {
+    "id": 1,
+    "courseName": "INT 601",
+    "image": "📕",
+    "from": "Management",
+    "instructor": "David Alderman, Taitiana Walsh",
+    "credits": "3",
+    "description": "International Culture"
+}, {
+    "id": 2,
+    "courseName": "IFT201",
+    "image": "📕",
+    "from": "Information Technology",
+    "instructor": "David Alderman, Taitiana Walsh",
+    "credits": "3",
+    "description": "Virtualization"
+}, {
+    "id": 3,
+    "courseName": "IFT301",
+    "image": "📕",
+    "from": "Information Technology",
+    "instructor": "David Alderman, Taitiana Walsh",
+    "credits": "3",
+    "description": "Virtualization"
+}, {
+    "id": 4,
+    "courseName": "IFT401",
+    "image": "📕",
+    "from": "Information Technology",
+    "instructor": "David Alderman, Taitiana Walsh",
+    "credits": "4",
+    "description": "Introduction to Information Technology"
+}
+
+]

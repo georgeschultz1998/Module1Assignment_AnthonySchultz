@@ -1,0 +1,13 @@
+{
+  "name": "project-m1-simpleserver",
+  "version": "1.0.0",
+  "description": "Our first web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "node inspect index.js",
+    "run-script": "node index.js"
+    },
+  "author": "Anthony Schultz",
+  "license": "ISC"
+}
